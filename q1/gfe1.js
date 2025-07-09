@@ -1,4 +1,4 @@
-//Debounce
+//Debounce attempt 1
 
 export default function debounce(func, wait) {
     let timeoutId
